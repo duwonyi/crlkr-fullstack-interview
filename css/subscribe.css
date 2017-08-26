@@ -1,0 +1,20 @@
+.top-header {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 32px;
+}
+
+.form-subscribe {
+  width: 60%;
+  position: relative;
+  left: 70px;
+}
+
+.label {
+  text-align: right;
+  font-weight: bold;
+}
+
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
